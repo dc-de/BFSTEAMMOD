@@ -5,7 +5,7 @@ It is now ported for STAR WARS™ Battlefront (Classic, 2004) steam version._
 **Installation:**
 1. Go to your steam STAR WARS™ Battlefront (Classic, 2004) game, right click and click on properties > local files > browse
 2. Backup files inside the "Star Wars Battlefront (Classic 2004)" folder to an other folder.
-3. Extrakt the ZIP inside the "Star Wars Battlefront (Classic 2004)" folder from this repo and overwrite existing files.
+3. Unzip the ZIP File and copy the GameData folder inside the "Star Wars Battlefront (Classic 2004)" folder from and overwrite existing files.
 Done! Have fun and play it!
 
 **Credits:**
