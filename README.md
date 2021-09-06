@@ -8,6 +8,12 @@ It is now ported for STAR WARS™ Battlefront (Classic, 2004) steam version._
 3. Unzip the ZIP File and copy the GameData folder inside the "Star Wars Battlefront (Classic 2004)" folder from and overwrite existing files.
 Done! Have fun and play it!
 
+**Important!:**
+Adding these files to the game folder in Steam chnage the version number of the game build!
+This means you can only play online with people with this mode too.
+The other players and the server must have this mode!!!
+Without it dosen't work!
+
 **Credits:**
 
 Old Star fire side mod v1.1 by EA711
